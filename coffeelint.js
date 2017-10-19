@@ -42,7 +42,7 @@ module.exports = {
     },
     colon_assignment_spacing: {
         name: "colon_assignment_spacing",
-        level: "error",
+        level: "ignore",
         spacing: {
             left: 0,
             right: 1

@@ -25,11 +25,7 @@ Differences from the default CoffeeScript linter are
     "value": 4
   },
   "colon_assignment_spacing": {
-    "level": "error",
-    "spacing": {
-      "left": 0,
-      "right": 1
-    }
+    level: "ignore",
   },
   "no_empty_param_list": {
     "level": "warn"
