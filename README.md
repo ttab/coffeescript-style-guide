@@ -49,7 +49,7 @@ npm i --dev @ttab/coffeescript-style
 ```
 or
 ```
-yarn add -d @ttab/coffeescript-style
+yarn add -D @ttab/coffeescript-style
 ```
 
 Add a local `coffeelint.json` file in the root folder on your project that extends this linter config
