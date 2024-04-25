@@ -2,7 +2,7 @@
   "name": "@ttab/coffeescript-style",
   "version": "0.2.3",
   "description": "TT AB Linter for coffeescript",
-  "main": "coffeelint.js",
+  "main": "coffeelint.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ttab/coffeescript-style-guide.git"
