@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/ttab/coffeescript-style-guide.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
