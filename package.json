@@ -1,6 +1,6 @@
 {
   "name": "@ttab/coffeescript-style",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "TT AB Linter for coffeescript",
   "main": "coffeelint.js",
   "repository": {
